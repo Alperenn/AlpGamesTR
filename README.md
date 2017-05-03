@@ -26,6 +26,7 @@ AlpGamesTR SkyBlock Sunucusu Güncelleme Notları
 - __SkyBlock__ Sunucu Genelinde Türkçe olmayan kelimeler türkçeleştirildi. (%90)
 - __SkyBlock__ Online zamanı sayaçı getirildi (/surem)
 - __SkyBlock__ Bazı Ayarlar Yapıldı.
+- __SkyBlock__ Kasa Görünümü Değiştirildi.
 #
 - __WebSite__ Temada Renkler Değiştirildi. Yeni bir görünüm elde edilidi.
 #
