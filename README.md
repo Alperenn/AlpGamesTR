@@ -6,7 +6,7 @@ AlpGamesTR SkyBlock Sunucusu Güncelleme Notları
 - __Çakma Lobi__ / Bazı kelimeler Türkçeleştirildi.
 - __Çakma Lobi__ / Bot atılamaz hale getirildi.
 #
-- __SkyBlock__ Spawn Değiştirildi.
+- __SkyBlock/ V1.4.3__ Spawn Değiştirildi.
 - __SkyBlock__ Lag Sorunu Giderildi.
 - __SkyBlock__ 30 Günden fazla oyuna girmeyen oyuncuların adaları siliniyor.
 - __SkyBlock__ AGCoin Sistemi Getirildi.
