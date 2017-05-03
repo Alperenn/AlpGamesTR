@@ -1,37 +1,41 @@
 # AlpGamesTR
 AlpGamesTR SkyBlock Sunucusu Güncelleme Notları
 #
-- __Çakma Lobi__ / Çakma Lobi Değiştirildi.
-- __Çakma Lobi__ / Giriş Mesajları Düzenlendi.
-- __Çakma Lobi__ / Bazı kelimeler Türkçeleştirildi.
-- __Çakma Lobi__ / Bot atılamaz hale getirildi.
 #
-- __SkyBlock/ V1.4.3__ Spawn Değiştirildi.
-- __SkyBlock__ Lag Sorunu Giderildi.
-- __SkyBlock__ 30 Günden fazla oyuna girmeyen oyuncuların adaları siliniyor.
-- __SkyBlock__ AGCoin Sistemi Getirildi.
-- __SkyBlock__ Kasa Sistemi Getirildi.
-- __SkyBlock__ Takas Plugini değiştirildi.
-- __SkyBlock__ Market Fiyatları Güncellendi.
-- __SkyBlock__ VipMarket Açıldı.
-- __SkyBlock__ Chat Renkleri Güncellendi.
-- __SkyBlock__ Yeni 4 Rehber Alındı.
-- __SkyBlock__ Blockların verdikleri level değiştirildi.
-- __SkyBlock__ Oyun Parası ile Repair atma eklendi.
-- __SkyBlock__ Çek sistemi getirildi.
-- __SkyBlock__ Score Board Güncellendi.
-- __SkyBlock__ Adalarda Çıkan Mob Sayısı Düzenlendi.
-- __SkyBlock__ FPS Düşüşleri Giderildi.
-- __SkyBlock__ Artık /sc clear own komutu ile chatinizi temizleyebilirsiniz.
-- __SkyBlock__ Sunucu Genelinde Türkçe olmayan kelimeler türkçeleştirildi. (%90)
-- __SkyBlock__ Online zamanı sayaçı getirildi (/surem)
-- __SkyBlock__ Bazı Ayarlar Yapıldı.
-- __SkyBlock__ Kasa Görünümü Değiştirildi.
+- __Çakma Lobi / V1.5.3__ Çakma Lobi Değiştirildi.
+- __Çakma Lobi / V1.5.3__ Giriş Mesajları Düzenlendi.
+- __Çakma Lobi / V1.5.3__ Bazı kelimeler Türkçeleştirildi.
+- __Çakma Lobi / V1.5.3__ Bot atılamaz hale getirildi.
 #
-- __WebSite__ Temada Renkler Değiştirildi. Yeni bir görünüm elde edilidi.
 #
-- __Genel__ Discord Sunucumuz Açıldı.
-- __Genel__ Sunucular Linux Makineye Geçirildi.
-- __Genel__ Lokasyonlar Almanya olarak değiştirildi.
-- __Genel__ Sunucu Genelinde Ram 28GBta Çıkartıldı.
+- __SkyBlock / V1.5.3__ Spawn Değiştirildi.
+- __SkyBlock / V1.5.3__ Lag Sorunu Giderildi.
+- __SkyBlock / V1.5.3__ 30 Günden fazla oyuna girmeyen oyuncuların adaları siliniyor.
+- __SkyBlock / V1.5.3__ AGCoin Sistemi Getirildi.
+- __SkyBlock / V1.5.3__ Kasa Sistemi Getirildi.
+- __SkyBlock / V1.5.3__ Takas Plugini değiştirildi.
+- __SkyBlock / V1.5.3__ Market Fiyatları Güncellendi.
+- __SkyBlock / V1.5.3__ VipMarket Açıldı.
+- __SkyBlock / V1.5.3__ Chat Renkleri Güncellendi.
+- __SkyBlock / V1.5.3__ Yeni 4 Rehber Alındı.
+- __SkyBlock / V1.5.3__ Blockların verdikleri level değiştirildi.
+- __SkyBlock / V1.5.3__ Oyun Parası ile Repair atma eklendi.
+- __SkyBlock / V1.5.3__ Çek sistemi getirildi.
+- __SkyBlock / V1.5.3__ Score Board Güncellendi.
+- __SkyBlock / V1.5.3__ Adalarda Çıkan Mob Sayısı Düzenlendi.
+- __SkyBlock / V1.5.3__ FPS Düşüşleri Giderildi.
+- __SkyBlock / V1.5.3__ Artık /sc clear own komutu ile chatinizi temizleyebilirsiniz.
+- __SkyBlock / V1.5.3__ Sunucu Genelinde Türkçe olmayan kelimeler türkçeleştirildi. (%90)
+- __SkyBlock / V1.5.3__ Online zamanı sayaçı getirildi (/surem)
+- __SkyBlock / V1.5.3__ Bazı Ayarlar Yapıldı.
+- __SkyBlock / V1.5.3__ Kasa Görünümü Değiştirildi.
+#
+#
+- __WebSite / V1.5.3__ Temada Renkler Değiştirildi. Yeni bir görünüm elde edilidi.
+#
+#
+- __Genel / V1.5.3__ Discord Sunucumuz Açıldı.
+- __Genel / V1.5.3__ Sunucular Linux Makineye Geçirildi.
+- __Genel / V1.5.3__ Lokasyonlar Almanya olarak değiştirildi.
+- __Genel / V1.5.3__ Sunucu Genelinde Ram 28GBta Çıkartıldı.
 
