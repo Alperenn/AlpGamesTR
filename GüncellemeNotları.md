@@ -31,6 +31,8 @@ AlpGamesTR SkyBlock Sunucusu Güncelleme Notları
 - __SkyBlock / V1.5.3__ Kasa Görünümü Değiştirildi.
 - __SkyBlock / V1.5.3__ Chattaki ada leveli göstergesi değiştirildi.
 - __SkyBlock / V1.5.3__ Spawner Fiyatları güncellendi
+- __SkyBlock / V1.5.3__ Elmas Ve Zümrüt Fiyatları Güncellendi.
+- __SkyBlock / V1.5.3__ Elmas,Demir,Altın Item Spawneri eklendi.
 #
 #
 - __WebSite / V1.5.3__ Temada Renkler Değiştirildi. Yeni bir görünüm elde edilidi.
@@ -38,6 +40,7 @@ AlpGamesTR SkyBlock Sunucusu Güncelleme Notları
 - __WebSite / V1.5.3__ Oyun Parası fiyatları güncellendi.
 - __WebSite / V1.5.3__ Slider Resimleri Güncellendi.
 - __WebSite / V1.5.3__ Arka Plan Değiştirildi.
+- __WebSite / V1.5.3__ Bir kaç hata giderildi.
 #
 #
 - __Genel / V1.5.3__ Discord Sunucumuz Açıldı.
